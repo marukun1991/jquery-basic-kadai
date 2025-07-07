@@ -1,3 +1,3 @@
 $(function() {
- $('#target').toggleClass('heading');
+ $('#target').addClass('heading');
 });
